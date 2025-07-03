@@ -29,11 +29,13 @@ body {
 .qr-codeBox p:first-of-type {
     font-size: 16px;
     font-weight: 700;
+  
 }
 
 .qr-codeBox p:last-of-type {
     font-size: 16px;
     font-weight: 400;
+      color: hsl(216, 15%, 48%);
 } 
 
 .attribution { 
